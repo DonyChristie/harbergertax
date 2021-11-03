@@ -12,6 +12,7 @@ This tax creates an incentive to set the sell price at the optimal point, becaus
 Here are a couple of articles on the Harberger tax that go into much more detail:
 - [What is Harberger Tax & Where Does The Blockchain Fit In?](https://medium.com/@simondlr/what-is-harberger-tax-where-does-the-blockchain-fit-in-1329046922c6)
 - [Harberger Taxes on Ethereum](https://yos.io/2018/11/18/harberger-taxes/)
+- [https://ethresear.ch/t/hackers-painters-open-source-projects-nfts-and-simplified-harberger-tax/9563](https://ethresear.ch/t/hackers-painters-open-source-projects-nfts-and-simplified-harberger-tax/9563)
 
 
 ## Projects That Use Harberger Taxation
