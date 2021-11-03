@@ -12,3 +12,18 @@ This tax creates an incentive to set the sell price at the optimal point, becaus
 Here are a couple of articles on the Harberger tax that go into much more detail:
 - [What is Harberger Tax & Where Does The Blockchain Fit In?](https://medium.com/@simondlr/what-is-harberger-tax-where-does-the-blockchain-fit-in-1329046922c6)
 - [Harberger Taxes on Ethereum](https://yos.io/2018/11/18/harberger-taxes/)
+
+
+## Projects That Use Harberger Taxation
+
+- [https://thisartworkisalwaysonsale.com/](https://thisartworkisalwaysonsale.com/)
+- [https://wildcards.world/](https://wildcards.world/)
+
+
+
+
+
+
+## Questions to Research
+
+1. Does a Harberger tax/"patronage royalty" (seems like a much better wording) make sense to combine with [impact certificate NFTs](www.impactcertificates.com)? Why or why not? Or should the holder earn a royalty? It's a public good, not a private good. So others should assess the value? Seems like the inverse of the Harberger Tax for private goods situation?
