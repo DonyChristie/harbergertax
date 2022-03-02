@@ -19,6 +19,9 @@ Here are a couple of articles on the Harberger tax that go into much more detail
 
 - [https://thisartworkisalwaysonsale.com/](https://thisartworkisalwaysonsale.com/)
 - [https://wildcards.world/](https://wildcards.world/)
+- [https://calendar.org](https://calendar.org)
+- [https://cigtoken.eth.limo/](https://cigtoken.eth.limo/)
+- [https://harberger.tax/](https://harberger.tax/)
 
 
 
@@ -27,4 +30,4 @@ Here are a couple of articles on the Harberger tax that go into much more detail
 
 ## Questions to Research
 
-1. Does a Harberger tax/"patronage royalty" (seems like a much better wording) make sense to combine with [impact certificate NFTs](www.impactcertificates.com)? Why or why not? Or should the holder earn a royalty? It's a public good, not a private good. So others should assess the value? Seems like the inverse of the Harberger Tax for private goods situation?
+1. Does a Harberger tax/"patronage royalty" (seems like a much better wording) make sense to combine with [impact certificate NFTs](www.impactcerts.com)? Why or why not? Or should the holder earn a royalty? It's a public good, not a private good. So others should assess the value? Seems like the inverse of the Harberger Tax for private goods situation?
